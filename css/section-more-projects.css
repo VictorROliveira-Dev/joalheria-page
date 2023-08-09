@@ -1,0 +1,12 @@
+.section-more-projects {
+    width: 100%;
+    height: 70vh;
+}
+
+@media (max-width: 680px) {
+    .section-more-projects {
+        width: 100%;
+        height: 150vh;
+        margin-bottom: 45px;
+    }
+}
